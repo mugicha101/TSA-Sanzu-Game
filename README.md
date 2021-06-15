@@ -9,11 +9,6 @@
 **X** to toggle far sight
 **Enter** to advance the dialog text
 
-## Debug Shortcuts:
-**B** to toggle debug mode
-**C** to toggle debug console messages
-**Right click** to spawn yin yang orb
-
 ## Browser Compatibility:
 Only guaranteed to work on Google Chrome version 87.0.4280.88 or later
 
@@ -59,3 +54,8 @@ Safari probably won't work
 For PCHS TSA 2021 Competition
 North Carolina TSA Central Regionals 2nd Place
 North Carolina TSA States 2nd Place
+
+## Debug Shortcuts (not active):
+**B** to toggle debug mode
+**C** to toggle debug console messages
+**Right click** to spawn yin yang orb
