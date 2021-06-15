@@ -1,6 +1,6 @@
 ## Links
-(repl.it code) [https://replit.com/@mugicha101/Sanzu-TSA-States#modules/main.js]
-(browser window) [https://Sanzu-TSA-States.mugicha101.repl.co]
+[repl.it code](https://replit.com/@mugicha101/Sanzu-TSA-States#modules/main.js)
+[browser window](https://Sanzu-TSA-States.mugicha101.repl.co)
 
 ## Controls:
 **WASD** to move
